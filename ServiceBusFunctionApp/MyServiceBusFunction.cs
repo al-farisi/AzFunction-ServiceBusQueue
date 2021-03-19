@@ -20,7 +20,7 @@ namespace ServiceBusFunctionApp
 
                 MyMessageModel model = JsonConvert.DeserializeObject<MyMessageModel>(payload);
 
-                //Do you things here, such as Some Actions or Calls Some Service or Another Method
+                //Do your things here, such as Some Actions or Calls Some Service or Another Method
 
 
                 //complete the message if there is no error
