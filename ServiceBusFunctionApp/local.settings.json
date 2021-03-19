@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ServiceBusConnectionString": "", //put your conenction string here
+    "MessageQueueName": "" //put your message queue name here
+  }
+}
